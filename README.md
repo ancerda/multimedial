@@ -170,7 +170,11 @@
             font-size: arial, sans-serif;
             color: rgb(240, 157, 182);
 
-            
+                    }
+    pre,
+    pre code {
+        background-color: rgb(0, 0, 0) !important;
+    }
 
 
         }
