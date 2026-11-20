@@ -173,7 +173,7 @@
                     }
     pre,
     pre code {
-        background-color: rgb(0, 0, 0) !important;
+        background-color: rgb(32, 20, 34) !important;
     }
 
 
