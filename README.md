@@ -1,6 +1,16 @@
 # Multimedial
 #### Exploración creativa de arte, tecnología y medios digitales interactivos. Cultura web y arte digital.
 
+<style>
+    a,
+    a:link,
+    a:visited,
+    a:hover,
+    a:active {
+        color: rgb(87, 3, 38) !important;
+    }
+</style>
+
 ### index
 
 ## Unidad I. [Hipervínculo](#unidad-i-hipervínculo)
@@ -42,7 +52,7 @@
 <!-- Define la codificación de caracteres para que se vean bien tildes y símbolos -->
 
 <title>Multimedial</title>
-<!-- Título de la página que aparece en la pestaña del navegador -->
+<!-- Título de la página que aparece in la pestaña del navegador -->
 
 <style>
         /* Estilo general del cuerpo */
@@ -125,7 +135,7 @@
 
 
 
-#### [Ejercicio point:]() 
+#### [Ejercicio point:] 
 <img src="https://ancerda.github.io/multimedial/w/img/moni.gif" width="auto" height="auto" />
 
 
@@ -164,4 +174,3 @@
 
 
         }
-
