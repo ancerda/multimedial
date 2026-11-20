@@ -125,7 +125,9 @@
 
 
 
-#### [Ejercicio]
+#### [Ejercicio point:]() 
+<img src="https://ancerda.github.io/multimedial/w/img/moni.gif" width="auto" height="auto" />
+
 
 
 
@@ -162,3 +164,4 @@
 
 
         }
+
