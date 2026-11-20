@@ -1,10 +1,34 @@
 # Multimedial
 #### Exploración creativa de arte, tecnología y medios digitales interactivos. Cultura web y arte digital.
 
+### index
 
-Ejercicio 1, semana 1:
-```
+## Unidad I. [Hipervínculo](#unidad-i-hipervínculo)
 
+[Mi página web.](https://ancerda.github.io/multimedial/w/index.html) 
+
+
+
+## Unidad II. [Programación visual creativa basada en nodos](#unidad-ii-programación-visual-creativa-basada-en-nodos-1) 
+ [Ejercicios ToucDesigner](#1-touchdesigner)
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Unidad I. Hipervínculo
+
+####  Mi primera página:
+
+``` html 
 <!DOCTYPE html>
 <!-- Indica al navegador que este documento usa HTML5 -->
 
@@ -21,56 +45,120 @@ Ejercicio 1, semana 1:
 <!-- Título de la página que aparece en la pestaña del navegador -->
 
 <style>
-/* Aquí comienza la sección de estilos CSS que define la apariencia visual */
+        /* Estilo general del cuerpo */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: rgb(31, 17, 17);
+            margin: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: arial, sans-serif;
+            color: rgb(203, 179, 200);
+        }
 
-body{
-/* "body" se refiere a todo el contenido visible de la página */
+        /* Contenedor principal */
+        .contenedor {
+            width: 80%;
+            margin: auto;
+        }
 
-  background-color: white;
-  /* Define que el fondo de toda la página sea blanco */
+        /* Sección o bloque */
+        .bloque {
+            background-color: rgba(37, 35, 38, 0.66);   
+            margin:auto;
+             margin-top: 50px;
+            width: 60%;
+            padding: 50px;
+            border-radius: 10px;
+        }
 
-  color: black;
-  /* Define que el color del texto sea negro */
+        /* Imagen */
+        .bloque img {
+            width: 80%;
+            height: auto;
+            display: block;
+            margin: 0 auto; /* Centrado horizontal */
+        }
 
-  margin: 0;
-  /* Elimina los márgenes que los navegadores agregan por defecto */
+        /* Encabezado */
+        .bloque h2 {
+            margin-top: 30px;
+        }
 
-  height: 100vh;
-  /* Hace que el alto del cuerpo sea igual al 100% de la altura de la pantalla */
-
-  display: flex;
-  /* Activa el sistema Flexbox para organizar y centrar elementos */
-
-  justify-content: center;
-  /* Centra el contenido horizontalmente */
-
-  align-items: center;
-  /* Centra el contenido verticalmente */
-
-  font-family: Arial, sans-serif;
-  /* Define la tipografía del texto */
-
-  font-size: 60px;
-  /* Define el tamaño grande del texto */
-
-}
-/* Fin de las reglas de estilo del body */
-
-</style>
-<!-- Fin de la sección de estilos -->
-
+        /* Texto */
+        .bloque p {
+            line-height: 1.5;
+        }
+    </style>
 </head>
 <!-- Fin de la sección head -->
 
 <body>
-<!-- Inicio del contenido visible de la página -->
 
-MULTIMEDIAL
-<!-- Texto que aparece en el centro de la pantalla -->
+    <!-- Contenedor principal -->
+    <div class="contenedor">
 
+        <!-- BLOQUE 1 -->
+        <div class="bloque">
+            <img src="img/Invasor_parasito.jpg" alt="Descripción de la imagen">
+            <h2>Invasores Espaciales</h2>
+        </div>
+
+        
+<nav>
+<a href="obras.html">Obras</a>
+<a href="contacto.html">Contacto</a><br>
+</nav>
 </body>
-<!-- Fin del contenido visible -->
 
 </html>
 <!-- Fin del documento HTML -->
+
 ```
+
+## Unidad II. Programación visual creativa basada en nodos
+
+#### 1. TouchDesigner
+#### [Ejercicio Lsystem:](https://drive.google.com/drive/folders/1qkFJ7MFNvu9-bnhALK6EO2J9Ayc_8L1w) 
+<img src="https://ancerda.github.io/multimedial/w/img/arbol.gif" width="auto" height="auto" />
+
+
+
+#### [Ejercicio]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<style>
+        /* Estilo general del cuerpo */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: rgb(100, 67, 90);
+            margin: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: arial, sans-serif;
+            color: rgb(240, 157, 182);
+
+            
+
+
+        }
